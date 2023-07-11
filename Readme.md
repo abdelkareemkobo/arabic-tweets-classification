@@ -10,6 +10,7 @@ This project focuses on cleaning and classifying a dataset containing Arabic twe
   - [Data Preprocessing](#data-preprocessing)
   - [Training the mBERT Model](#training-the-mbert-model)
   - [Evaluation](#evaluation)
+  - [TODO](#todo)
   - [Streamlit Demo](#streamlit-demo)
   - [Contributing](#contributing)
   - [License](#license)
@@ -63,6 +64,8 @@ The dataset used for this project should be in CSV format, with two columns: "te
 
 The model's performance can be evaluated using various metrics, including accuracy, precision, recall, and F1-score. These metrics provide insights into how well the model classifies the tweets into spam and ham categories.
 
+## TODO 
+1. make the streamlit Demo more cool and add the gif into hub after some sleeping :) 
 ## Streamlit Demo
 
 A Streamlit demo is provided to interact with the trained model. To run the demo, execute the following command:
